@@ -3,7 +3,7 @@
 /// <summary>
 /// Projectile behavior
 /// </summary>
-public class ShotScript : MonoBehaviour
+public class ShotsScript : MonoBehaviour
 {
     // 1 - Designer variables
 
@@ -20,6 +20,6 @@ public class ShotScript : MonoBehaviour
     void Start()
     {
         // 2 - Limited time to live to avoid any leak
-        Destroy(gameObject, 1); // 1sec
+        Destroy(gameObject, 2); // 2sec
     }
 }
