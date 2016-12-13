@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 7c1b5b190619e1f4c8394a9d5e4d34b7
+timeCreated: 1480495966
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "perso h\xE9ros de cot\xE9 + arme_0"
+    21300002: "perso h\xE9ros de cot\xE9 + arme_1"
+    21300004: "perso h\xE9ros de cot\xE9 + arme_2"
+    21300006: "perso h\xE9ros de cot\xE9 + arme_3"
+    21300008: "perso h\xE9ros de cot\xE9 + arme_4"
+    21300010: "perso h\xE9ros de cot\xE9 + arme_5"
+    21300012: "perso h\xE9ros de cot\xE9 + arme_6"
+    21300014: "perso h\xE9ros de cot\xE9 + arme_7"
+    21300016: "perso h\xE9ros de cot\xE9 + arme_8"
+    21300018: "perso h\xE9ros de cot\xE9 + arme_9"
+    21300020: "perso h\xE9ros de cot\xE9 + arme_10"
+    21300022: "perso h\xE9ros de cot\xE9 + arme_11"
+    21300024: "perso h\xE9ros de cot\xE9 + arme_12"
+    21300026: "perso h\xE9ros de cot\xE9 + arme_13"
+    21300028: "perso h\xE9ros de cot\xE9 + arme_14"
+    21300030: "perso h\xE9ros de cot\xE9 + arme_15"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_0"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 706
+        width: 64
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_1"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 705
+        width: 110
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_2"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 907
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_3"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 708
+        width: 110
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_4"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 911
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_5"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 835
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_6"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 842
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_7"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 839
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_8"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_9"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 763
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_10"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 704
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_11"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 707
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_12"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 343
+        width: 155
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_13"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 345
+        width: 154
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_14"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 572
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "perso h\xE9ros de cot\xE9 + arme_15"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 345
+        width: 202
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

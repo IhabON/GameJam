@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlatformFall : MonoBehaviour
+public class Falling : MonoBehaviour
 {
 
     public float fallDelay = 1f;
